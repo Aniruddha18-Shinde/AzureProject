@@ -1,0 +1,9 @@
+{
+	"name": "dfazureproject1",
+	"location": "canadacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e1245993-2cc7-4c6e-81fa-9cfe26fe730b",
+		"tenantId": "90cb1c57-7471-451d-a452-44e0544e4420"
+	}
+}
